@@ -28,7 +28,7 @@
     "expo-symbols": "~0.4.3",
     "expo-system-ui": "~5.0.5",
     "expo-web-browser": "~14.1.5",
-    "expo-document-picker": "~12.1.2",
+    "expo-document-picker": "~14.1.1",
     "expo-image-picker": "~15.1.1",
     "expo-calendar": "~13.0.0",
     "expo-notifications": "~0.30.1",
